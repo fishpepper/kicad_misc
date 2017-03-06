@@ -1,4 +1,4 @@
-(module tp_SMD_0.6x1.2 (layer F.Cu) (tedit 581DBF5B)
+(module tp_SMD_0.6x1.2 (layer F.Cu) (tedit 58BD35EC)
   (fp_text reference TP106 (at 0 0.5) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
