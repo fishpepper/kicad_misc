@@ -5,8 +5,8 @@
   (fp_text reference REF** (at 0 1) (layer F.SilkS) hide
     (effects (font (size 0.4 0.4) (thickness 0.1)))
   )
-  (fp_text value L_0402 (at 0 0) (layer F.Fab)
-    (effects (font (size 0.4 0.4) (thickness 0.1)))
+  (fp_text value VALUE** (at 0 0) (layer F.Fab)
+    (effects (font (size 0.25 0.25) (thickness 0.1)))
   )
   (fp_line (start -0.25 0.525) (end 0.25 0.525) (layer F.SilkS) (width 0.15))
   (fp_line (start 0.25 -0.525) (end -0.25 -0.525) (layer F.SilkS) (width 0.15))
