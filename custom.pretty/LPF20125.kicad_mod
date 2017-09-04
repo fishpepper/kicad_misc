@@ -1,4 +1,4 @@
-(module LPF20125 (layer F.Cu) (tedit 5940F1CD)
+(module LPF20125 (layer F.Cu) (tedit 59AD1729)
   (fp_text reference Y1 (at 0.2 4.3) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -25,10 +25,6 @@
   (pad 1 thru_hole circle (at 0.3 0) (size 0.508 0.508) (drill 0.3302) (layers *.Cu)
     (zone_connect 2))
   (pad 1 thru_hole circle (at -1.27 -0.7112) (size 0.6858 0.6858) (drill 0.3302) (layers *.Cu)
-    (zone_connect 2))
-  (pad 1 thru_hole circle (at 1.27 -0.7112) (size 0.6858 0.6858) (drill 0.3302) (layers *.Cu)
-    (zone_connect 2))
-  (pad 1 thru_hole circle (at 1.27 0.7112) (size 0.6858 0.6858) (drill 0.3302) (layers *.Cu)
     (zone_connect 2))
   (pad 1 thru_hole circle (at -1.27 0.7112) (size 0.6858 0.6858) (drill 0.3302) (layers *.Cu)
     (zone_connect 2))
